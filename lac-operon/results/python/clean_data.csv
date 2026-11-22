@@ -1,0 +1,21 @@
+group,no,strain,csource,inducer,time_min,a600,a420,activity_U,quality,source
+4,1,lacI-,glucose,IPTG,0.0,0.5750000000000001,0.253,2199.9999999999995,ok,t0 before IPTG (shared)
+4,5,lacI-,glucose,IPTG,2.0,0.26,0.004,76.92307692307692,A420 < 0.02 (near detection limit),raw readings
+4,9,lacI-,glucose,IPTG,4.0,0.525,0.003,28.57142857142857,A420 < 0.02 (near detection limit),raw readings
+4,13,lacI-,glucose,IPTG,10.0,0.8999999999999999,0.034,188.88888888888889,ok,raw readings
+4,17,lacI-,glucose,IPTG,30.0,0.44999999999999996,0.42,4666.666666666667,ok,raw readings
+4,1,lacI-,glucose,none,0.0,0.5750000000000001,0.253,2199.9999999999995,ok,raw readings
+4,3,lacI-,glucose,none,2.0,0.22999999999999998,0.062,1347.8260869565217,ok,raw readings
+4,7,lacI-,glucose,none,4.0,0.165,0.05,1515.151515151515,ok,raw readings
+4,11,lacI-,glucose,none,10.0,0.195,0.032,820.5128205128203,ok,raw readings
+4,15,lacI-,glucose,none,30.0,0.305,0.017,278.6885245901639,A420 < 0.02 (near detection limit),raw readings
+4,2,lacI-,glycerol,IPTG,0.0,0.18,0.081,4500.0,ok,t0 before IPTG (shared)
+4,6,lacI-,glycerol,IPTG,2.0,0.39,0.039,999.9999999999998,ok,raw readings
+4,10,lacI-,glycerol,IPTG,4.0,0.38,0.022,578.9473684210525,ok,raw readings
+4,14,lacI-,glycerol,IPTG,10.0,0.66,3.0,45454.545454545456,lower bound (A420 > 3),raw readings
+4,18,lacI-,glycerol,IPTG,30.0,0.22999999999999998,3.0,130434.78260869565,lower bound (A420 > 3),raw readings
+4,2,lacI-,glycerol,none,0.0,0.18,0.081,4500.0,ok,raw readings
+4,4,lacI-,glycerol,none,2.0,0.4,0.014,349.99999999999994,A420 < 0.02 (near detection limit),raw readings
+4,8,lacI-,glycerol,none,4.0,0.315,1.497,47523.80952380953,A420 > 1.0 (outside linear range),raw readings
+4,12,lacI-,glycerol,none,10.0,0.45499999999999996,0.035,769.2307692307693,ok,raw readings
+4,16,lacI-,glycerol,none,30.0,0.41000000000000003,0.157,3829.268292682926,ok,raw readings

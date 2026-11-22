@@ -1,0 +1,10 @@
+group,strain,comparison,time_min,ratio,reliability
+4,lacI-,"glycerol / glucose (t = 0, catabolite repression)",0.0,2.045454545454546,reliable
+4,lacI-,IPTG / no IPTG on glucose,2.0,0.05707196029776675,uncertain (numerator: A420 < 0.02 (near detection limit))
+4,lacI-,IPTG / no IPTG on glucose,4.0,0.018857142857142857,uncertain (numerator: A420 < 0.02 (near detection limit))
+4,lacI-,IPTG / no IPTG on glucose,10.0,0.23020833333333338,reliable
+4,lacI-,IPTG / no IPTG on glucose,30.0,16.745098039215687,uncertain (denominator: A420 < 0.02 (near detection limit))
+4,lacI-,IPTG / no IPTG on glycerol,2.0,2.8571428571428568,uncertain (denominator: A420 < 0.02 (near detection limit))
+4,lacI-,IPTG / no IPTG on glycerol,4.0,0.012182259255352807,uncertain (denominator: A420 > 1.0 (outside linear range))
+4,lacI-,IPTG / no IPTG on glycerol,10.0,59.090909090909086,lower limit (≥)
+4,lacI-,IPTG / no IPTG on glycerol,30.0,34.06258654112435,lower limit (≥)
