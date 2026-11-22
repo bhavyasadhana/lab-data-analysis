@@ -1,0 +1,7 @@
+person,model,r2,rmse_od,p_m,p_b,p_a,p_B,p_C,p_d,lod_pgml,loq_pgml,lod_4pl_pgml,lod_method
+A,linear,0.87676,0.36416,0.0037653,0.28765,,,,,45.25,137.12,36.406,"ICH Q2: 3.3*s/slope, 10*s/slope (standards <= 50 pg/ml)"
+A,semilog,0.914,0.30421,1.0468,-0.77358,,,,,45.25,137.12,36.406,"ICH Q2: 3.3*s/slope, 10*s/slope (standards <= 50 pg/ml)"
+A,4pl,0.96947,0.2093,,,-0.084012,0.85115,203.73,3.2631,45.25,137.12,36.406,"ICH Q2: 3.3*s/slope, 10*s/slope (standards <= 50 pg/ml)"
+B,linear,0.83917,0.45029,0.0039873,0.45427,,,,,4.4862,13.594,3.2237,"ICH Q2: 3.3*s/slope, 10*s/slope (standards <= 50 pg/ml)"
+B,semilog,0.97148,0.18963,1.1681,-0.77143,,,,,4.4862,13.594,3.2237,"ICH Q2: 3.3*s/slope, 10*s/slope (standards <= 50 pg/ml)"
+B,4pl,0.99898,0.041405,,,-0.10289,0.96518,84.275,2.9198,4.4862,13.594,3.2237,"ICH Q2: 3.3*s/slope, 10*s/slope (standards <= 50 pg/ml)"

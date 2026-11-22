@@ -1,0 +1,5 @@
+person,sample,mean_od,od_cv_pct,pgml_4pl,pgml_4pl_rep1,pgml_4pl_rep2,pgml_semilog,pgml_linear,supernatant_ngml_4pl,software_pgml_mean,status
+A,P1,1.665,14.694,226.505,289.511,177.619,213.630,365.804,22.651,242.655,in range
+A,P2,0.806,25.617,61.786,79.369,46.775,32.287,137.666,6.179,58.805,below LOQ
+B,P1,1.736,6.963,133.104,150.793,117.864,140.277,321.578,13.310,148.315,in range
+B,P2,0.394,33.518,15.654,19.459,12.150,9.957,-14.991,1.565,14.235,in range
